@@ -1,0 +1,990 @@
+10000
+English
+10001
+en
+0
+Sunday
+1
+Monday
+2
+Tuesday
+3
+Wednesday
+4
+Thursday
+5
+Friday
+6
+Saturday
+7
+Date
+8
+Time
+9
+Location
+10
+Latitude
+11
+Longitude
+12
+Timezone
+13
+Tithi
+14
+Tithi Elaps.
+15
+Naksatra
+16
+Naksatra Elaps.
+17
+Child Name
+18
+(according naksatra)
+19
+(according rasi)
+20
+Paksa
+21
+(during Purusottama Adhika Masa)
+22
+Masa
+23
+Gaurabda Year
+24
+Celebrations
+25
+Appearance Day Calculation
+26
+Day can be only from 1 to 31
+27
+Month can be only from 1 to 12
+28
+Year can be only from 1500 to 3999
+29
+Given date was corrected, since date given by you was nonexisting.
+30
+days
+31
+months
+32
+years
+33
+exactly given date
+34
+from begining of the month
+35
+align to the start of the Masa
+36
+from begining of the year
+37
+start from first day of the Gaurabda Year
+38
+<all mahadvadasis>
+39
+Masa Listing
+40
+Location
+41
+From
+42
+To
+43
+Today
+44
+ Calendar
+45
+ Appearance Day
+46
+ Core Events
+48
+ Masa List
+50
+Could not create new window.
+51
+Sunrise
+52
+Sunset
+53
+Moonrise
+54
+Moonset
+55
+Year
+56
+Sankranti
+57
+Please update GCAL to the latest version from http://www.krishnadays.com
+58
+(not suitable for fasting)
+59
+(suitable for fasting)
+60
+Break fast
+61
+Break fast after
+62
+Break fast not calculated
+63
+(DST not considered)
+65
+Jan
+66
+Feb
+67
+Mar
+68
+Apr
+69
+May
+70
+Jun
+71
+Jul
+72
+Aug
+73
+Sep
+74
+Oct
+75
+Nov
+76
+Dec
+78
+Ganga Sagara Mela
+79
+Tulasi Jala Dan begins.
+80
+Tulasi Jala Dan ends.
+81
+First day of Bhisma Pancaka
+82
+Last day of Bhisma Pancaka
+83
+Looking for
+84
+Start
+85
+End
+86
+Not found in this year.
+87
+Fasting for
+88
+(Fasting is done yesterday, today is feast)
+89
+Ksaya tithi
+90
+[Second day of Tithi]
+91
+First day
+92
+Last day
+93
+of the first month
+94
+of the second month
+95
+of the third month
+96
+of the fourth month
+97
+of Caturmasya-vrata
+98
+Arunodaya Tithi
+99
+Arunodaya at
+100
+Sun Longitude
+101
+Moon Longitude
+102
+Ayanamsa
+103
+Julian day
+104
+Yoga
+105
+Rasi
+106
+(Daylight Saving Time not considered)
+107
+(Winter Time)
+108
+(Summer Time)
+109
+(Second half)
+110
+Event Finder
+111
+Sun enters
+112
+First month of Caturmasya begins
+113
+Last day of the first Caturmasya month
+114
+(green leafy vegetable fast for one month)
+115
+First month of Caturmasya continues
+116
+Second month of Caturmasya begins
+117
+Last day of the second Caturmasya month
+118
+(yogurt fast for one month)
+119
+Second month of Caturmasya continues
+120
+Third month of Caturmasya begins
+121
+Last day of the third Caturmasya month
+122
+(milk fast for one month)
+123
+Third month of Caturmasya continues
+124
+Fourth month of Caturmasya begins
+125
+Last day of the fourth Caturmasya month
+126
+(urad dal fast for one month)
+127
+Fourth month of Caturmasya continues
+128
+(Caturmasya is not observed during Purusottama Adhika Masa.)
+129
+1.4.3 (Beta)
+130
+GCal 1.4.3 (Beta)
+131
+Gaurabda Calendar 1.4.3 (Beta)
+132
+<all sankrantis>
+133
+<all tithis>
+134
+<all fasting days>
+135
+(Fasting for Ekadasi)
+136
+No Moonrise
+137
+No Moonset
+138
+No Sunrise
+139
+No Sunset
+140
+SUN - MOON CONJUNCTIONS
+150
+Su
+151
+Mo
+152
+Tu
+153
+We
+154
+Th
+155
+Fr
+156
+Sa
+157
+DATE
+158
+SUNRISE
+159
+MASA
+160
+TITHI START
+161
+NAKSATRA START
+162
+Page
+206
+[c3]Sri Abhirama Thakura -- Disappearance
+209
+[c3]Srila Vrndavana Dasa Thakura -- Disappearance
+214
+[c3]Sri Gadadhara Pandita -- Appearance
+217
+[c1]Aksaya Trtiya. Candana Yatra starts. (Continues for 21 days)
+221
+[c5]Jahnu Saptami
+223
+[c1]Srimati Sita Devi (consort of Lord Sri Rama) -- Appearance#[c3]Sri Madhu Pandita -- Disappearance#[c3]Srimati Jahnava Devi -- Appearance
+226
+[c1]Rukmini Dvadasi
+227
+[c4]Sri Jayananda Prabhu -- Disappearance
+228
+[c0]Nrsimha Caturdasi: Appearance of Lord Nrsimhadeva[f:4:Lord Nrsimhadeva]
+229
+[c1]Krsna Phula Dola, Salila Vihara#[c3]Sri Paramesvari Dasa Thakura -- Disappearance#[c1]Sri Sri Radha-Ramana Devaji -- Appearance#[c3]Sri Madhavendra Puri -- Appearance#[c3]Sri Srinivasa Acarya -- Appearance
+234
+[c3]Sri Ramananda Raya -- Disappearance
+241
+[c3]Srila Vrndavana Dasa Thakura -- Appearance
+254
+[c3]Sri Baladeva Vidyabhusana -- Disappearance#[c1]Ganga Puja#[c3]Srimati Gangamata Gosvamini -- Appearance
+257
+[c1]Panihati Cida Dahi Utsava
+259
+[c1]Snana Yatra#[c3]Sri Mukunda Datta -- Disappearance#[c3]Sri Sridhara Pandita -- Disappearance
+260
+[c3]Sri Syamananda Prabhu -- Disappearance
+264
+[c3]Sri Vakresvara Pandita -- Appearance
+269
+[c3]Sri Srivasa Pandita -- Disappearance
+274
+[c3]Sri Gadadhara Pandita -- Disappearance#[c2]Srila Bhaktivinoda Thakura -- Disappearance[f:1:Bhaktivinoda Thakura]
+276
+[c3]Sri Svarupa Damodara Gosvami -- Disappearance#[c3]Sri Sivananda Sena -- Disappearance
+280
+[c3]Sri Vakresvara Pandita -- Disappearance
+289
+[c1]Guru (Vyasa) Purnima#[c3]Srila Sanatana Gosvami -- Disappearance
+294
+[c3]Srila Gopala Bhatta Gosvami -- Disappearance
+297
+[c3]Srila Lokanatha Gosvami -- Disappearance
+298
+[c4]The incorporation of ISKCON in New York
+308
+[c3]Sri Raghunandana Thakura -- Disappearance#[c2]Sri Vamsidasa Babaji -- Disappearance
+315
+[c1]Radha Govinda Jhulana Yatra begins
+316
+[c3]Srila Rupa Gosvami -- Disappearance#[c3]Sri Gauridasa Pandita -- Disappearance
+319
+[c1]Jhulana Yatra ends#[c0]Lord Balarama -- Appearance[f:1:Lord Balarama]
+320
+[c4]Srila Prabhupada's departure for the USA
+339
+[c3]Srimati Sita Thakurani (Sri Advaita's consort) -- Appearance
+340
+[c1]Lalita sasti
+342
+[c0]Radhastami: Appearance of Srimati Radharani[f:1:Srimati Radharani]
+346
+[c0]Sri Vamana Dvadasi: Appearance of Lord Vamanadeva[f:1:Vamanadeva]#[c3]Srila Jiva Gosvami -- Appearance
+347
+[c2]Srila Bhaktivinoda Thakura -- Appearance[f:1:Bhaktivinoda Thakura]
+348
+[c1]Ananta Caturdasi Vrata#[c3]Srila Haridasa Thakura -- Disappearance
+349
+[c1]Sri Visvarupa Mahotsava#[c4]Acceptance of sannyasa by Srila Prabhupada
+356
+[c4]Srila Prabhupada's arrival in the USA
+371
+[c5]Durga Puja
+374
+[c1]Ramacandra Vijayotsava#[c2]Sri Madhvacarya -- Appearance
+376
+[c3]Srila Raghunatha Dasa Gosvami -- Disappearance#[c3]Srila Raghunatha Bhatta Gosvami -- Disappearance#[c3]Srila Krsnadasa Kaviraja Gosvami -- Disappearance
+379
+[c1]Sri Krsna Saradiya Rasayatra#[c3]Sri Murari Gupta -- Disappearance#[c5]Laksmi Puja
+384
+[c3]Srila Narottama Dasa Thakura -- Disappearance
+387
+[c1]Appearance of Radha Kunda, snana dana#[c1]Bahulastami
+388
+[c3]Sri Virabhadra -- Appearance
+394
+[c1]Dipa dana, Dipavali, (Kali Puja)
+395
+[c1]Bali Daityaraja Puja#[c3]Sri Rasikananda -- Appearance
+396
+[c3]Sri Vasudeva Ghosh -- Disappearance
+398
+[c2]Srila Prabhupada -- Disappearance[f:1:Srila Prabhupada]
+402
+[c1]Gopastami, Gosthastami#[c3]Sri Gadadhara Dasa Gosvami -- Disappearance#[c3]Sri Dhananjaya Pandita -- Disappearance#[c3]Sri Srinivasa Acarya -- Disappearance
+403
+[c5]Jagaddhatri Puja
+405
+[c2]Srila Gaura Kisora Dasa Babaji -- Disappearance[f:1:Gaura Kisora Dasa Babaji]
+408
+[c3]Sri Bhugarbha Gosvami -- Disappearance#[c3]Sri Kasisvara Pandita -- Disappearance
+409
+[c1]Sri Krsna Rasayatra#[c1]Tulasi-Saligrama Vivaha (marriage)#[c3]Sri Nimbarkacarya -- Appearance
+410
+[c1]Katyayani vrata begins
+420
+[c3]Sri Narahari Sarakara Thakura -- Disappearance
+421
+[c3]Sri Kaliya Krsnadasa -- Disappearance
+422
+[c3]Sri Saranga Thakura -- Disappearance
+430
+[c1]Odana sasthi
+435
+[c1]Advent of Srimad Bhagavad-gita
+439
+[c1]Katyayani vrata ends
+443
+[c2]Srila Bhaktisiddhanta Sarasvati Thakura -- Disappearance[f:1:Bhaktisiddhanta Sarasvati]
+450
+[c3]Sri Devananda Pandita -- Disappearance
+452
+[c3]Sri Mahesa Pandita -- Disappearance#[c3]Sri Uddharana Datta Thakura -- Disappearance
+455
+[c3]Sri Locana Dasa Thakura -- Appearance
+457
+[c3]Srila Jiva Gosvami -- Disappearance#[c3]Sri Jagadisa Pandita -- Disappearance
+466
+[c3]Sri Jagadisa Pandita -- Appearance
+469
+[c1]Sri Krsna Pusya abhiseka
+474
+[c3]Sri Ramacandra Kaviraja -- Disappearance#[c3]Srila Gopala Bhatta Gosvami -- Appearance
+475
+[c3]Sri Jayadeva Gosvami -- Disappearance
+476
+[c3]Sri Locana Dasa Thakura -- Disappearance
+489
+[c1]Vasanta Pancami#[c3]Srimati Visnupriya Devi -- Appearance#[c5]Sarasvati Puja#[c3]Srila Visvanatha Cakravarti Thakura -- Disappearance#[c3]Sri Pundarika Vidyanidhi -- Appearance#[c3]Sri Raghunandana Thakura -- Appearance#[c3]Srila Raghunatha Dasa Gosvami -- Appearance
+491
+[c0]Sri Advaita Acarya -- Appearance
+492
+[c1]Bhismastami
+493
+[c3]Sri Madhvacarya -- Disappearance
+494
+[c3]Sri Ramanujacarya -- Disappearance
+496
+[c0]Varaha Dvadasi: Appearance of Lord Varahadeva[f:1:Varahadeva]
+497
+[c0]Nityananda Trayodasi: Appearance of Sri Nityananda Prabhu[f:1:Sri Nityananda]
+499
+[c1]Sri Krsna Madhura Utsava#[c3]Srila Narottama Dasa Thakura -- Appearance
+504
+[c3]Sri Purusottama Das Thakura -- Disappearance#[c2]Srila Bhaktisiddhanta Sarasvati Thakura -- Appearance[f:1:Bhaktisiddhanta Sarasvati]
+511
+[c3]Sri Isvara Puri -- Disappearance
+513
+[c1]Siva Ratri
+515
+[c2]Srila Jagannatha Dasa Babaji -- Disappearance#[c3]Sri Rasikananda -- Disappearance
+518
+[c3]Sri Purusottama Dasa Thakura -- Appearance
+526
+[c3]Sri Madhavendra Puri -- Disappearance
+537
+[c3]Sri Srivasa Pandita -- Appearance
+541
+[c3]Sri Govinda Ghosh -- Disappearance
+549
+[c3]Sri Ramanujacarya -- Appearance
+556
+[c1]Damanakaropana Dvadasi
+559
+[c1]Sri Balarama Rasayatra#[c1]Sri Krsna Vasanta Rasa#[c3]Sri Vamsivadana Thakura -- Appearance#[c3]Sri Syamananda Prabhu -- Appearance
+560
+Varuthini Ekadasi
+561
+Mohini Ekadasi
+562
+Apara Ekadasi
+563
+Pandava Nirjala Ekadasi#(Total fast, even from water, if you have broken Ekadasi)
+564
+Yogini Ekadasi
+565
+Sayana Ekadasi
+566
+Kamika Ekadasi
+567
+Pavitropana Ekadasi
+568
+Annada Ekadasi
+569
+Parsva Ekadasi
+570
+Indira Ekadasi
+571
+Pasankusa Ekadasi
+572
+Rama Ekadasi
+573
+Utthana Ekadasi
+574
+Utpanna Ekadasi
+575
+Moksada Ekadasi
+576
+Saphala Ekadasi
+577
+Putrada Ekadasi
+578
+Sat-tila Ekadasi
+579
+Bhaimi Ekadasi
+580
+Vijaya Ekadasi
+581
+Amalaki vrata Ekadasi
+582
+Papamocani Ekadasi
+583
+Kamada Ekadasi
+584
+Parama Ekadasi
+585
+Padmini Ekadasi
+600
+Pratipat
+601
+Dvitiya
+602
+Tritiya
+603
+Caturthi
+604
+Pancami
+605
+Sasti
+606
+Saptami
+607
+Astami
+608
+Navami
+609
+Dasami
+610
+Ekadasi
+611
+Dvadasi
+612
+Trayodasi
+613
+Caturdasi
+614
+Amavasya
+615
+Pratipat
+616
+Dvitiya
+617
+Tritiya
+618
+Caturthi
+619
+Pancami
+620
+Sasti
+621
+Saptami
+622
+Astami
+623
+Navami
+624
+Dasami
+625
+Ekadasi
+626
+Dvadasi
+627
+Trayodasi
+628
+Caturdasi
+629
+Purnima
+630
+Asvini
+631
+Bharani
+632
+Krittika
+633
+Rohini
+634
+Mrigasira
+635
+Ardra
+636
+Punarvasu
+637
+Pusyami
+638
+Aslesa
+639
+Magha
+640
+Purva-phalguni
+641
+Uttara-phalguni
+642
+Hasta
+643
+Citra
+644
+Swati
+645
+Visakha
+646
+Anuradha
+647
+Jyestha
+648
+Mula
+649
+Purva-asadha
+650
+Uttara-asadha
+651
+Sravana
+652
+Dhanista
+653
+Satabhisa
+654
+Purva-bhadra
+655
+Uttara-bhadra
+656
+Revati
+660
+Viskumba
+661
+Priti
+662
+Ayusmana
+663
+Saubhagya
+664
+Sobana
+665
+Atiganda
+666
+Sukarma
+667
+Dhriti
+668
+Sula
+669
+Ganda
+670
+Vriddhi
+671
+Dhruva
+672
+Vyagata
+673
+Harsana
+674
+Vajra
+675
+Siddhi
+676
+Vyatipata
+677
+Variyana
+678
+Parigha
+679
+Siva
+680
+Siddha
+681
+Sadhya
+682
+Subha
+683
+Sukla
+684
+Brahma
+685
+Indra
+686
+Vaidhriti
+688
+Mesa
+689
+Vrsabha
+690
+Mithuna
+691
+Karka
+692
+Simha
+693
+Kanya
+694
+Tula
+695
+Vrscika
+696
+Dhanus
+697
+Makara
+698
+Kumbha
+699
+Mina
+700
+Aries
+701
+Taurus
+702
+Gemini
+703
+Cancer
+704
+Leo
+705
+Virgo
+706
+Libra
+707
+Scorpio
+708
+Sagittarius
+709
+Capricorn
+710
+Aquarius
+711
+Pisces
+712
+Gaura
+713
+Krsna
+720
+Madhusudana
+721
+Trivikrama
+722
+Vamana
+723
+Sridhara
+724
+Hrsikesa
+725
+Padmanadbha
+726
+Damodara
+727
+Kesava
+728
+Narayana
+729
+Madhava
+730
+Govinda
+731
+Visnu
+732
+Purusottama-adhika
+733
+Unmilani Mahadvadasi
+734
+Trisprsa Mahadvadasi
+735
+Paksa vardhini Mahadvadasi
+736
+Jaya Mahadvadasi
+737
+Vijaya Mahadvadasi
+738
+Papa Nasini Mahadvadasi
+739
+Jayanti Mahadvadasi
+740
+Vyanjuli Mahadvadasi
+741
+Sri Krsna Janmastami: Appearance of Lord Sri Krsna
+742
+Gaura Purnima: Appearance of Sri Caitanya Mahaprabhu
+743
+Return Ratha (8 days after Ratha Yatra)
+744
+Hera Pancami (4 days after Ratha Yatra)
+745
+Gundica Marjana
+746
+Go Puja. Go Krda. Govardhana Puja.
+747
+Rama Navami: Appearance of Lord Sri Ramacandra
+748
+Ratha Yatra
+749
+Nandotsava
+750
+Festival of Jagannatha Misra
+751
+(Fast till noon)
+752
+(Fast till sunset)
+753
+(Fast till moonrise)
+754
+(Fast till dusk)
+755
+(Fast till midnight)
+759
+Srila Prabhupada -- Appearance
+760
+January
+761
+February
+762
+March
+763
+April
+764
+May
+765
+June
+766
+July
+767
+August
+768
+September
+769
+October
+770
+November
+771
+December
+780
+First day of
+781
+Last day of
+782
+first
+783
+second
+784
+third
+785
+fourth
+786
+last
+787
+Sunday
+788
+Monday
+789
+Tuesday
+790
+Wednesday
+791
+Thursday
+792
+Friday
+793
+Saturday
+795
+of January
+796
+of February
+797
+of March
+798
+of April
+799
+of May
+800
+of June
+801
+of July
+802
+of August
+803
+of September
+804
+of October
+805
+of November
+806
+of December
+807
+For this location is Daylight Saving Time not observed.
+808
+Daylight saving time is observed 
+810
+0th
+811
+1st
+812
+2nd
+813
+3rd
+814
+4th
+815
+5th
+816
+6th
+817
+7th
+818
+8th
+819
+9th
+820
+10th
+821
+11th
+822
+12th
+823
+13th
+824
+14th
+825
+15th
+826
+16th
+827
+17th
+828
+18th
+829
+19th
+830
+20th
+831
+21st
+832
+22nd
+833
+23rd
+834
+24th
+835
+25th
+836
+26th
+837
+27th
+838
+28th
+839
+29th
+840
+30th
+841
+31st
+850
+since
+851
+to
+852
+on
+853
+Yesterday
+854
+Tomorrow
+855
+First day of Daylight Saving Time
+856
+Last day of Daylight Saving Time
+857
+Noon
